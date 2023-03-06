@@ -56,10 +56,6 @@
 
 
 
-<hr />
 
-## 📕 Pinned Repositories
 
-<p align="center">
-
-</p>
+ 

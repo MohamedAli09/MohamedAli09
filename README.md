@@ -20,7 +20,6 @@
 
 <p>🗯️ &nbsp;I’m currently looking for an Entry/Junior level Software Development or an internship in backend development.</p>
 <p>❄️ &nbsp;I’m currently learning Network, javascript, APIs, and working on projects with Nodejs</p>
-<p>🎓 &nbsp;I'm currently undergraduate studying Computer Science Engineering at <a href = "https://www.eelu.edu.eg//">EELU</a>.</p>
 <p>💡 &nbsp;I like to solve algorithmic problems or work on my side project during my free time.</p>
 <p>💬 &nbsp;Feel free to reach out to me for work opportunities or working alogside a project.</p>
 <!--  

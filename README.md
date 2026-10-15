@@ -18,10 +18,10 @@
 
 ## 👨🏻‍💻 &nbsp;About Me:
 
-<p>🗯️ &nbsp;I’m currently looking for an Entry/Junior level Software Development or an internship in backend development.</p>
-<p>❄️ &nbsp;I’m currently learning Network, javascript, APIs, and working on projects with Nodejs</p>
-<p>💡 &nbsp;I like to solve algorithmic problems or work on my side project during my free time.</p>
-<p>💬 &nbsp;Feel free to reach out to me for work opportunities or working alogside a project.</p>
+<p>💼 I'm a Software Engineer at Commercial International Bank (CIB) Egypt, with a strong interest in backend engineering.</p>
+<p>🔍 I'm curious about what happens behind the scenes, from how applications run to how databases, networks, and distributed systems work together.</p>
+<p>🛠️ I enjoy exploring software design principles, solving algorithmic challenges, and developing a deeper understanding of engineering trade-offs.</p>
+<p>💬 I enjoy connecting with engineers who value curiosity, continuous learning, and thoughtful software design.</p>
 <!--  
 <p>🧩 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1kf_H6cOm7AcuRvEcbExztr9ie5qTGeiL/view?usp=sharing">Résumé</a> for more details about me.</p>
 -->
